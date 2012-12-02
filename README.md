@@ -19,4 +19,7 @@ Goal: Create a small open Web-friendly SVG for navigating [SMRT trains](http://e
 * F2 to select text paths, F1 then delete to review
 * [Scour](http://www.codedread.com/scour/) seems to help a little, but not much and we don't really know what it does
 * Using Droid Sans 18 size. Bold for junctions.
+* Using Droid Sans 14 size for station numbers
+* [Station number boxes have a height of of 15px](http://s.natalian.org/2012-12-02/1354442644_1366x768.png)
+* Use the [align tools](http://s.natalian.org/2012-12-02/1354442382_1366x768.png)
 * Know some good SVG tips or tools? Please share them!
