@@ -4,8 +4,21 @@
 <meta charset="utf-8" />
 <title>SMRT map</title>
 </head>
+<style>
+body { font-family: sans-serif; }
+</style>
 <body>
 <h1><object data="map.svg"><img src="map.png" alt="SMRT map"></object></h1>
 <p><a href="https://github.com/kaihendry/smrt">source code</a></p>
+<pre>
+$ du -h map.svg split-lines/*
+972K    map.svg
+56K     split-lines/cck-line.svg
+224K    split-lines/green-line.svg
+124K    split-lines/legend.svg
+196K    split-lines/purple-line.svg
+140K    split-lines/red-line.svg
+192K    split-lines/yellow-line.svg
+</pre>
 </body>
 </html>
