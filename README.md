@@ -14,7 +14,7 @@ Goal: Create a small open Web-friendly SVG for navigating [SMRT trains](http://e
 
 # Tips
 
-* [svgo](https://github.com/svg/svgo) 0.1.6 hilarious carves up [[map.min.svg]]
+* [svgo](https://github.com/svg/svgo) 0.1.6 hilarious carves up [map.svg](map.min.svg)
 * Use [inkscape](http://en.wikipedia.org/wiki/Inkscape), save to plain SVG. Optimise SVG seems broken.
 * [Resize page to drawing](http://s.natalian.org/2012-12-02/1354414212_1366x768.png)
 * F2 to select text paths, F1 then delete to review
