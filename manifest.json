@@ -1,0 +1,13 @@
+{
+  "short_name": "SG SMRT MAP",
+  "name": "Singapore SMRT map",
+  "icons": [
+    {
+      "src": "/map.svg",
+      "sizes": "144x144",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
