@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" manifest="smrt.appcache">
+<head>
+<meta charset="utf-8" />
+<title>Singapore SMRT metro map</title>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<style>
+body { font-family: sans-serif; }
+</style>
+
+<!-- BEGIN CRAP inspired from view-source:https://busrouter.sg/ -->
+<meta name="apple-mobile-web-app-title" content="SG trains">
+<meta name="description" content="Map of Singapore's train system">
+<meta itemprop="description" content="Map of Singapore's train system">
+<meta property="og:description" content="Map of Singapore's train system">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://smrt.dabase.com/">
+<meta property="og:title" content="Singapore SMRT train system map">
+<meta property="og:image" content="http://smrt.dabase.com/icons/200.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon-precomposed" href="/icons/144.png">
+<meta itemprop="image" content="/icons/144.png">
+<!-- END CRAP -->
+
+</head>
+<body>
+m4_include(map.svg)
+<p><a href="https://github.com/kaihendry/smrt">About</a></p>
+</body>
+</html>
