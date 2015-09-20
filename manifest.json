@@ -1,6 +1,6 @@
 {
-  "short_name": "SG SMRT MAP",
-  "name": "Singapore SMRT map",
+  "short_name": "SG MRT MAP",
+  "name": "Singapore MRT map",
   "icons": [
     {
       "src": "/map.svg",
